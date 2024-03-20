@@ -1,0 +1,28 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Elite Sigma Infotech LLP",
+            "workType": "Full-time",
+            "workDescription": [
+                "Utilized Node.js to create server-side applications. ",
+                "Working on latest Back-end Technologies like Node.js, React.js, Redux, Bun.js, Express.js, Elysia, Nest, Typescript. ",
+                "Instrumental in enhancing API performance, achieving a remarkable 50% improvement in response time. ",
+                "Extensive experience integrating with various third-party APIs and payment gateways like Stripe, Etsy, and Google Ads. "
+            ],
+            "dateText": "02/2023 - present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Zignuts Technolab Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Proficiently worked with cutting-edge Backend Technologies including Nest.js and TypeScript, ensuring efficient and scalable solutions. ",
+                "Successfully integrated third-party tools such as Vipps and Stripe payment gateways along with Keycloak. ",
+                "Helped to provide industry-leading solution. ",
+                "Worked on internal and external project with great care."
+            ],
+            "dateText": "06/2021 - 02/2023"
+        }
+    ]
+}

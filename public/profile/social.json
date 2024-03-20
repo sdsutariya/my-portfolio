@@ -1,0 +1,40 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/mayankagarwal09"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "twitter",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "instagram",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "youtube",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "leetcode",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "stackoverflow",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "quora",
+            "href": "mailto:test@test.com"
+        }
+    ]
+}
