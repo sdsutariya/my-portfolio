@@ -31,6 +31,7 @@ import prisma from "../../assets/prisma-original-wordmark.svg";
 import puppeteer from "../../assets/puppeteer-original.svg";
 import sequelize from "../../assets/sequelize-original-wordmark.svg";
 import socketio from "../../assets/socketio-original-wordmark.svg";
+import { Experience } from "../Experience/Experience";
 
 
 export function Main() {
@@ -354,6 +355,7 @@ export function Main() {
       />
       <Hero></Hero>
       <About></About>
+      <Experience></Experience>
       <Project></Project>
       <Contact></Contact>
     </Container>
